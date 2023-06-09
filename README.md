@@ -1,7 +1,6 @@
 # Jibber Jab
 
-Jibber Jab is a live chat application that you can use to chat with other people, you can upload messages or images of your liking. The application offers features such as making group chats, adding or kicking people from the group chat if you are the person that made it, seeing photos and many more things. 
-
+Jibber Jab is a live chat application that you can use to chat with a group of people. The application offers features such as making group chats, sending messages and photos, and adding or kicking people from the group chat if you are the chat maker. 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Getting Started with Create React App
