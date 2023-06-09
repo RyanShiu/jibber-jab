@@ -2,7 +2,7 @@
 
 Jibber Jab is a live chat application that you can use to chat with a group of people. The application offers features such as making group chats, sending messages and photos, and adding or kicking people from the group chat if you are the chat maker. 
 
-If you are interested you can check it out at: jibber-jab.netlify.app
+If you are interested you can check it out at: [jibber-jab.netlify.app](https://jibber-jab.netlify.app/)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Getting Started with Create React App
